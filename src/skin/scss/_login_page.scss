@@ -1,0 +1,34 @@
+.login-page, .register-page {
+    background : #f3f2f7 !important;
+}
+
+.wizard > .content {
+    background: #fff;
+}
+
+.wizard > .steps .disabled a, .wizard > .steps .disabled a:hover, .wizard > .steps .disabled a:active {
+    background: #fff;
+    color: #6e6e6e;
+}
+
+.twofact {
+    width: 275px
+}
+
+.twofact_textfield {
+    border: 2px solid red !important
+}
+
+.lockscreen-item-pos {
+    margin-left:-15px;
+}
+
+.alert-error-text {
+    color:red;
+    margin: -10 0 0 0;
+}
+
+.alert-warning-text {
+    color: orange;
+    margin: -10 0 0 0;
+}
